@@ -25,20 +25,35 @@ including new blockchain uses (tokenization, decentralized finance [DeFi], centr
 
 ## Learning Outcomes
 After completion of the course students are expected to be able to:
+
 • Be able to describe the Byzantine Generals’ Problem (a classical problem on how to achieve a single winning strategy involving various parties, some of which may be corrupted, untrusted, or may disseminate inaccurate information) and how do blockchains address this problem.
+
 • Understand the basics of blockchain technology, i.e. cryptographic functions (hashes), the process of mining and issuance of new currency, various consensus mechanisms including the ‘Proof-of-Work’ consensus mechanism used in the Bitcoin Blockchain.
+
 • Distinguish among various types and properties of centralized, decentralized and hybrid blockchains and ascertain which of them is suitable for what purposes.
+
 • Understand how blockchain technology creates trust among untrusted parties and immutable entries, by linking/chaining blocks of information together (thus the concept of ‘blockchain’).
+
 • Distinguish the basic characteristics and key metrics of Bitcoin and altcoins (alternative cryptocurrencies issued after Bitcoin) such as Ethereum, Litecoin, XRP, Bitcoin Cash etc. Many of these altcoins may have different properties, follow different protocols and have different uses.
+
 • Learn how to transact and store cryptocurrencies, look-up and dissect real transactions in open blockchain networks.
+
 • Dive-in to more technical aspects of the technology such as mining pools, segregated witness, lightning network, forks and smart contracts, their uses and challenges.
+
 • Learn why this is an innovative technology and understand its potential to disrupt a number of other industries.
+
 • Identify some of the industries that may be disrupted by this technology, such as financial institutions, health, real estate, supply chain, academia, and others, as well as describe blockchain-related use cases.
+
 • Understand more advanced uses of the blockchain such as escrow services, asset registration, attestation, smart contracts, digital assets, tokenization, CBDCs, DeFi and others.
+
 • Understand what parallels and differences cryptocurrencies have with the existing monetary and banking systems.
+
 • Evaluate how central banks or governments may issue their own digital currency, for what purposes and to what end.
+
 • Identify some of the legal, regulatory and taxation challenges that this new technology may bring and learn how do major global regulators look at these issues.
+
 • Understand major frameworks for regulating cryptocurrencies.
+
 • Explore the current mega-trends towards decentralization and how blockchain and other technologies, such as AI and the IoT, fuel these trends.
 
 ## Course Contents
