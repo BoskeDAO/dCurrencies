@@ -5,10 +5,15 @@ Thanks to University of Nicosia!!
 
 ## Objectives of the Course
 The course provides an introductory understanding of blockchain technology and decentralized digital currencies (cryptocurrencies), such as bitcoin. The course will:
+
 • survey the theory and principles by which digital currencies operate;
+
 • provide practical examples of basic transactions and operations of blockchain or distributed ledger-based systems;
+
 • explore the current and future interaction of digital currencies with banking, financial, legal and regulatory systems;
+
 • help students understand the disruptive potential of blockchain and how this ecosystem can be perceived as an innovation;
+
 • discuss the newest developments in the space (for example, tokenisation, DeFi and CBDCs), explore the synergies between blockchain and other disruptive technologies (such as artificial intelligence and the internet of things) and provide a vision and thesis for a decentralised future.
 
 ## The course will consist of four general topics:
