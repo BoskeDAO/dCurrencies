@@ -1,4 +1,4 @@
-# dMoney
+# dCurrencies
 Introduction to Digital Currencies
 
 Thanks to University of Nicosia!!
